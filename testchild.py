@@ -1,2 +1,2 @@
 #premier document air quatary
-print ('ici cest paris)
+print ('ici cest paris')
